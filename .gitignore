@@ -1,0 +1,5 @@
+node_modules
+src/config.json
+rethinkdb-2.3.6
+.idea
+src/slashCommands/commandKeys
